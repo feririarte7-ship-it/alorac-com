@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /googleD3cc452bad0189de.html
+Disallow: /
